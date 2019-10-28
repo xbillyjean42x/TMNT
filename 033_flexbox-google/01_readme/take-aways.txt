@@ -1,9 +1,0 @@
-Design:
-	Build mobile first
-
-Use:
-    display: flex;
-    flex-flow: row wrap;
-
-Each row:
-	What you want on each row adds up to 100%

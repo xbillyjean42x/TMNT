@@ -1,3 +1,0 @@
-Move the notched circle from the left side of the screen to the right side of the screen, and back, infinitely.
-
-The starting files are in this folder.
