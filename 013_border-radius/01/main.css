@@ -1,8 +1,8 @@
 div {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 1px solid red;
-    border-radius: 5px;
+    border-radius: 100%;
     background-image: url("../../000_img/pup.jpg");
     background-size: cover;
     background-repeat: no-repeat;
