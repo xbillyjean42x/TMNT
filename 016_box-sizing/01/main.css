@@ -8,6 +8,7 @@ div {
 
 img {
     width: 200px;
+    /*box-sizing: border-box; constrains image to 200 px - not original picture size if you add "border" and "padding element.*/
     box-sizing: border-box;
     border: 10px groove orangered;
     padding: 20px;
