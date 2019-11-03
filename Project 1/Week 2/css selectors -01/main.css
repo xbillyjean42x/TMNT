@@ -1,0 +1,18 @@
+body {
+    font-size: 28px;
+    text-align: left;
+    border: 20px crimson;
+    background-color: pink;
+}
+a:link {
+    color: #630b8c;
+}
+a:visited {
+    color: brown;
+}
+a:hover {
+    color: #308014;
+}
+a:active {
+    color: dimgray;
+}
