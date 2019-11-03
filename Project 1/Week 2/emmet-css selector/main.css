@@ -1,0 +1,22 @@
+h1 {color: green;
+}
+section {
+    width: 500px;
+    color: #16A2D7;
+}
+.emphasize {
+    color: blueviolet;
+}
+.item98 {
+    color: pink;
+}
+.item97 {
+    color: darkorange;
+}
+.item96 {
+    color: coral;
+}
+#slogan {
+    color: darkslategrey;
+    font-size: 20px;
+}
