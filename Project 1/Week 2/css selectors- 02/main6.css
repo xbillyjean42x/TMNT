@@ -1,0 +1,8 @@
+body {
+    font-size: 28px;
+    background-color: lightpink;
+}
+
+li:only-child{
+    color: cadetblue;
+}
