@@ -11,10 +11,10 @@ p{
 p::first-letter {
     font-family: 'Dancing Script', cursive;
     font-size: 36px;
+    line-height: 1;
 }
 
 p::first-line   {
-    font-family: "Bauhaus 93";
-    font-size: 28px;
-    line-height: 5;
+    color: lightpink;
+    font-weight: 900;
 }
