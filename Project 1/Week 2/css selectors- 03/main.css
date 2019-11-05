@@ -1,0 +1,20 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+p{
+    margin: 30px;
+}
+
+p::first-letter {
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+}
+
+p::first-line   {
+    font-family: "Bauhaus 93";
+    font-size: 28px;
+    line-height: 5;
+}
