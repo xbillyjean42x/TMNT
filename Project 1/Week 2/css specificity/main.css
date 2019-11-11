@@ -1,4 +1,70 @@
 body {
     background-color: lightsteelblue;
+    text-align: center;
 }
+h1 {
+    display: inline;
+    width: 250px;
+    height: 46px;
+    text-align: center;
+    border: 10px dashed black;
+}
+p {
+    text-align: center;
+    display: inline-list-item;
+    width: 500px;
+    height: 46px;
+    border: 5px groove black;
+
+}
+div #a1 {
+    width: 250px;
+    height: 46px;
+    border: #5b5b5b;
+    text-align: center;
+}
+/*Value 100*/
+#a2 {
+    color: yellow;
+}
+/*Value 11*/
+p.a3    {
+    color: red;
+}
+/*Value 1*/
+:last-child {
+    color:  aquamarine;
+}
+/*Value 1*/
+:not(p) {
+    color: peachpuff;
+}
+/*Value 10*/
+:visited    {
+    color: purple;
+}
+/*Value 10*/
+:empty  {
+    color: #6c6c6c;
+}
+/*Value 101*/
+div #a2 {
+    color: #45ADA8;
+}
+/*Value 2*/
+div+p   {
+    color: #584420;
+}
+/*Value 2*/
+p~ul    {
+    color: #c89884;
+}
+/*Value 10*/
+[target]    {
+    color: #094562;
+}
+
+
+
+
 
