@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 96px;
+}
+
+p   {
+    text-transform: uppercase;
+    font-style: italic;
+}

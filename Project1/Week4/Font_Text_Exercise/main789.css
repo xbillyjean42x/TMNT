@@ -1,12 +1,19 @@
 h1  {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size 6rem;
+    text-shadow: 10px 5px 1px chocolate;
+    text-decoration: line-through;
+
 }
 
 div {
+    text-indent: 2rem;
     box-sizing: content-box;
     width: 50%;
     border: solid darkslateblue;
     padding: 10px;
-    letter-spacing: 2rem;
+}
+
+a {
+    text-decoration: none;
 }
